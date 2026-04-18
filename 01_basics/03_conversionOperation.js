@@ -18,7 +18,13 @@ let score = "13PR"
 let isLoggedIn = " "
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 
-console.log(booleanIsLoggedIn);
+// console.log(booleanIsLoggedIn);
 
 // 1 => true ; "anything inside qoutes even a space gives" => true
 // 0 => false ; "" => 0
+
+console.log("1" + 2 +2); 
+// agar pehle o/p string hai to baaki sabko bhi as a string hi treat karega
+console.log(1+2+"2");
+// agar pehle o/p integer  hai to baaki sabko bhi as a integer hi treat karega
+
