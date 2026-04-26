@@ -24,7 +24,7 @@ const dcHeroes = ["Batman" , "Superman" , "Aquaman"]
 console.log(Array.from("Rudra"));
 
 let str = "Rudra";
-let no = 02;
+let no = 2;
 let score = 99;
 
 console.log(Array.of(str, no, score));
